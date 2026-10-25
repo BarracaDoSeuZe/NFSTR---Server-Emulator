@@ -1,0 +1,1 @@
+Run Build_All.bat to build nfsrun-ssl-gateway.exe locally with MSVC/OpenSSL 1.0.2u.

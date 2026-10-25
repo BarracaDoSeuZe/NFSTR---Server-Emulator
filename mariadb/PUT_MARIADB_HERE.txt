@@ -1,0 +1,12 @@
+Copy/extract a portable MariaDB distribution into this folder.
+
+Required layout:
+  mariadb\bin\mariadbd.exe
+  mariadb\bin\mariadb.exe
+  mariadb\bin\mariadb-install-db.exe
+  mariadb\share\...
+
+MariaDB binaries are intentionally NOT included in this package.
+The first run creates mariadb\data locally.
+
+Default DB port for this NFS package: 1979
